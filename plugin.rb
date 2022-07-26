@@ -5,7 +5,7 @@
 # version: 1.0
 # authors: Joe Stanton
 # contact email: intunedeals@gmail.com
-# url: https://github.com/pavilionedu/discourse-topic-custom-fields
+# url: https://github.com/JStantonWordPress/CustomFields
 
 enabled_site_setting :topic_custom_field_enabled
 register_asset 'stylesheets/common.scss'
